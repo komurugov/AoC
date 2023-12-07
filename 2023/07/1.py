@@ -21,7 +21,7 @@ def GetWeight(src):
     w = 0
     
     p = 1
-    for i in range(4, 0, -1):
+    for i in range(4, -1, -1):
         #print(i)
         w += CharWeights[src[i]] * p
         p *= 13
