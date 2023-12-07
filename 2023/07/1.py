@@ -17,10 +17,12 @@ CharWeights = {
 }
 
 def GetWeight(src):
+    #print(src)
     w = 0
     
     p = 1
     for i in range(4, 0, -1):
+        #print(i)
         w += CharWeights[src[i]] * p
         p *= 13
         
@@ -72,7 +74,7 @@ def ZeroItem(lst):
     return lst[0]
 
 for line in sys.stdin:
-    weight = GetWeight(line[:4])
+    weight = GetWeight(line[:5])
     hands.append((weight, int(line.split()[1])))
     hands.sort(key = ZeroItem)
     sum = 0
