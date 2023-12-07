@@ -77,8 +77,12 @@ def ZeroItem(lst):
 for line in sys.stdin:
     weight = GetWeight(line[:5])
     hands.append((weight, int(line.split()[1])))
-    hands.sort(key = ZeroItem)
-    sum = 0
-    for i in range(len(hands)):
-        sum += (i + 1) * hands[i][1]
+    
+hands.sort(key = ZeroItem)
+print(hands)
+sum = 0
+for i in range(len(hands)):
+    sum += (i + 1) * hands[i][1]
 print(sum)
+
+# > 248290391
