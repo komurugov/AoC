@@ -28,10 +28,11 @@ def GetWeight(src):
         
     src = list(src)
     src.sort()
+    #print(src)
     
     cnts = []
     cnt = 1
-    for i in range(1, 4):
+    for i in range(1, 5):
         if src[i] == src[i - 1]:
             cnt += 1
         else:
@@ -41,7 +42,9 @@ def GetWeight(src):
     
     cnts.sort(reverse = True)
     
-    w += GetHandWeight(cnts) * math.pow(13, 6)
+    hw = GetHandWeight(cnts)
+    #print(w, '+', hw)
+    w += hw * math.pow(13, 6)
         
     return w
     
@@ -79,10 +82,10 @@ for line in sys.stdin:
     hands.append((weight, int(line.split()[1])))
     
 hands.sort(key = ZeroItem)
-print(hands)
+#print(hands)
 sum = 0
 for i in range(len(hands)):
     sum += (i + 1) * hands[i][1]
 print(sum)
 
-# > 248290391
+# > 248290391 < 250274911
