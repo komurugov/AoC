@@ -26,7 +26,8 @@ def GetWeight(src):
         w += CharWeights[src[i]] * p
         p *= 13
         
-    src = list(src).sort()
+    src = list(src)
+    src.sort()
     
     cnts = []
     cnt = 1
