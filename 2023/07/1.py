@@ -13,7 +13,7 @@ CharWeights = {
     'J': 9,
     'Q': 10,
     'K': 11,
-    'L': 12
+    'A': 12
 }
 
 def GetWeight(src):
