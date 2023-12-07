@@ -1,7 +1,6 @@
 import sys, math
 
-CharWeights =
-{
+CharWeights = {
     '2': 0,
     '3': 1,
     '4': 2,
