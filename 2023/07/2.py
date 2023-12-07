@@ -37,7 +37,7 @@ def GetWeight(src):
     
     cnts = []
     cnt = 1
-    for i in range(1, 5):
+    for i in range(1, len(src)):
         if src[i] == src[i - 1]:
             cnt += 1
         else:
