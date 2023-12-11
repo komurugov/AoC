@@ -25,7 +25,7 @@ for col in range(N - 1, -1, -1):
 summ = 0
 for i in range(len(glxs)):
     for j in range(i + 1, len(glxs)):
-        dst = math.abs(glxs[i][0] - glxs[j][0]) + math.abs(glxs[i][1] - glxs[j][1])
+        dst = abs(glxs[i][0] - glxs[j][0]) + abs(glxs[i][1] - glxs[j][1])
         summ += dst
     
     
