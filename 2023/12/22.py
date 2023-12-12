@@ -31,7 +31,7 @@ def proc(curlen, ll, srclen):
     global curar
     #print(curlen, ll, curar)
     if curlen == L + 1:
-        if ll == 0 and compl():
+        if ll == 0:
             cntres += 1
         return
     if ll == 0 and curlen < L:
