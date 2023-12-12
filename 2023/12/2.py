@@ -2,6 +2,8 @@ import sys, datetime
 
 cntres = 0
 lengths = []
+curar = []
+src = ''
 
 def compl(cur, lens):
     n = 0
@@ -20,9 +22,9 @@ def compl(cur, lens):
     return j == len(lens)
     
 
-def proc(cur, src, n, i):
-    if (len(cur) != 0):
-        if cur[-1] == '#':
+def proc(curlen, n, i):
+    if (curlen != 0):
+        if curar[curlen-1] == '#':
             if n == 0:
                 if i >= len(lengths):
                     return
@@ -37,20 +39,23 @@ def proc(cur, src, n, i):
                 n = 0
         
     global cntres
-    if len(cur) == len(src):
-        if cur[-1] == '#':
+    if curlen == len(src):
+        if curar[curlen-1] == '#':
             if n == lengths[i] and i == len(lengths) - 1:
                 cntres += 1
         else:
             if i == len(lengths):
                 cntres += 1
     else:
-        ch = src[len(cur)]
+        ch = src[curlen]
         if ch == '?':
-            proc(cur + ['.'], src, n, i)
-            proc(cur + ['#'], src, n, i)
+            curar[curlen] = '.'
+            proc(curlen + 1, n, i)
+            curar[curlen] = '#'
+            proc(curlen + 1, n, i)
         else:
-            proc(cur + [ch], src, n, i)
+            curar[curlen] = ch
+            proc(curlen + 1, n, i)
 
 summ = 0
 k = 0
@@ -61,7 +66,8 @@ for line in sys.stdin:
         src += '?' + line[0]
     lengths = list(map(int, line[1].split(','))) * 5
     #print(src, lengths)
-    proc([], src, 0, 0)
+    curar = [' '] * len(src)
+    proc(0, 0, 0)
     summ += cntres
     print(datetime.datetime.now().time(), k, ':', cntres)
     cntres = 0
