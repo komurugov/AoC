@@ -57,21 +57,22 @@ def proc(curlen, n, i):
             curar[curlen] = ch
             proc(curlen + 1, n, i)
 
+
+
 summ = 0
 k = 0
 for line in sys.stdin:
     line = line.split()
     src = line[0]
-    for i in range(4):
-        src += '?' + line[0]
-    lengths = list(map(int, line[1].split(','))) * 5
-    #print(src, lengths)
+    lengths = list(map(int, line[1].split(',')))
+    print(datetime.datetime.now().time(), src, lengths)
     curar = [' '] * len(src)
     proc(0, 0, 0)
     summ += cntres
-    print(datetime.datetime.now().time(), k, ':', cntres)
+    print(datetime.datetime.now().time(), k, ':', cntres, summ)
     cntres = 0
     k += 1
     
+exit()
 print(summ)    
     
