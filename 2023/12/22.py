@@ -26,10 +26,12 @@ def proc(curlen, ll, srclen):
     else:
         st = 1
         en = ll + 2 - (L - curlen)
+    if src.find('#', srclen, srclen + st) != -1:
+        return
     for i in range(st, en):
         if srclen + i > S:
             return
-        if src.find('#', srclen, srclen + i) != -1:
+        if src[srclen + i - 1] == '#':
             return
         if curlen < L:
             if srclen + i + lengths[curlen] > S:
