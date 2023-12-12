@@ -7,25 +7,6 @@ src = ''
 S = 0
 L, LL = 0, 0
 
-def compl():
-    #print(curar)
-    i = 0
-    for j in range(L * 2 + 1):
-        if j % 2 == 0:
-            ch = '.'
-            ex = curar[j // 2]
-        else:
-            ch = '#'
-            ex = lengths[j // 2]
-        for k in range(ex):
-            if i >= len(src):
-                return False
-            if src[i] != ch and src[i] != '?':
-                return False
-            i += 1
-    return i == len(src)    
-    
-
 def proc(curlen, ll, srclen):
     global cntres
     global curar
@@ -36,11 +17,16 @@ def proc(curlen, ll, srclen):
         return
     if ll == 0 and curlen < L:
         return
-    if curlen == 0 or curlen == L:
+    if curlen == 0:
         st = 0
+        en = ll + 2 - (L - curlen)
+    elif curlen == L:
+        st = ll
+        en = ll + 1
     else:
         st = 1
-    for i in range(st, ll + 2 - (L - curlen)):
+        en = ll + 2 - (L - curlen)
+    for i in range(st, en):
         if srclen + i > S:
             return
         if src.find('#', srclen, srclen + i) != -1:
