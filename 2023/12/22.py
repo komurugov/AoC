@@ -41,27 +41,17 @@ def proc(curlen, ll, srclen):
     else:
         st = 1
     for i in range(st, ll + 2 - (L - curlen)):
-        curar[curlen] = i
-        ok = True
-        for j in range(i):
-            if srclen + j >= S:
-                ok = False
-                break
-            ch = src[srclen + j]
-            if ch == '#':
-                ok = False
-                break
+        if srclen + i > S:
+            return
+        if src.find('#', srclen, srclen + i) != -1:
+            return
         if curlen < L:
-            for j in range(i, i + lengths[curlen]):
-                if srclen + j >= S:
-                    ok = False
-                    break
-                ch = src[srclen + j]
-                if ch == '.':
-                    ok = False
-                    break
-        if ok:
-            proc(curlen + 1, ll - i, srclen + i + (lengths[curlen] if curlen < L else 0))
+            if srclen + i + lengths[curlen] > S:
+                return
+            if src.find('.', srclen + i, srclen + i + lengths[curlen]) != -1:
+                continue
+        curar[curlen] = i
+        proc(curlen + 1, ll - i, srclen + i + (lengths[curlen] if curlen < L else 0))
 
 summ = 0
 k = 0
