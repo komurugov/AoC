@@ -24,7 +24,7 @@ summ = 0
 for col in range(len(dish[0])):
     for row in range(H):
         if dish[row][col] == 'O':
-            summ += H - row + 1
+            summ += H - row
             
 print(summ)
 
