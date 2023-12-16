@@ -14,12 +14,15 @@ down = (1, 0)
 right = (0, 1)
 left = (0, -1)
 
+
 path = []
-for i in range(H):
-    row = []
-    for j in range(W):
-        row.append({up: False, down: False, left: False, right: False})
-    path.append(row)
+def repath():
+    path.clear()
+    for i in range(H):
+        row = []
+        for j in range(W):
+            row.append({up: False, down: False, left: False, right: False})
+        path.append(row)
     
 rules = {
 '.': {up: [up], down: [down], right: [right], left: [left]},
@@ -62,14 +65,18 @@ def calc():
 maxim = 0
 
 for i in range(W):
+    repath()
     go(0, i, (1, 0))
     maxim = max(maxim, calc())
+    repath()
     go(H - 1, i, (-1, 0))
     maxim = max(maxim, calc())
 
 for i in range(H):
+    repath()
     go(i, 0, (0, 1))
     maxim = max(maxim, calc())
+    repath()
     go(i, W - 1, (0, -1))
     maxim = max(maxim, calc())
     
