@@ -10,7 +10,7 @@ L, LL = 0, 0
 def proc(curlen, ll, srclen):
     global cntres
     global curar
-    #print(curlen, ll, curar)
+    #print('proc', curlen, ll, srclen)
     if curlen == L + 1:
         if ll == 0:
             cntres += 1
@@ -29,9 +29,10 @@ def proc(curlen, ll, srclen):
     if src.find('#', srclen, srclen + st) != -1:
         return
     for i in range(st, en):
-        if srclen + i > S:
+        #print(curlen, i)
+        if i > 0 and srclen + i > S:
             return
-        if src[srclen + i - 1] == '#':
+        if i > 0 and src[srclen + i - 1] == '#':
             return
         if curlen < L:
             if srclen + i + lengths[curlen] > S:

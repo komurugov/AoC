@@ -1,0 +1,2210 @@
+║c2-ivi-smcu-time-meas.pdx                                 │ 47249║║Vector_Driver_Setup_11_0_4                                │Folder║
+║C2-IVI-SMCU-V1.Doxyfile                                   │122647║║anki-2.1.60-windows-qt6.exe                               │ 136 M║
+║c2-ivi-smcu.cdd                                           │1004 K║║balenaEtcher-Setup-1.18.4.exe                             │ 148 M║
+║c2_ivi_s32_proj_Z4_0.odx-f                                │ 13212║║CANalyzer_11.0_SP4_64Bit.exe                              │1733 M║
+║c2_ivi_s32_proj_Z4_0.pdx                                  │ 45744║║doxygen-1.9.5-setup.exe                                   │  45 M║
+║Changelog.md                                              │ 16404║║Far30b6060.x64.20221208.msi                               │  13 M║
+║prebuildSteps.sh                                          │  5749║║ffmpeg-master-latest-win64-gpl-shared.zip                 │  50 M║
+║UDS SeedNKey.dll                                          │ 77312║║Git-2.39.0-64-bit.exe                                     │  50 M║
+║warnings.log                                              │  5097║║ImageMagick-7.1.1-5-Q16-HDRI-x64-dll.exe                  │  37 M║
+║                                                          │      ║║jdk-8u351-windows-x64.exe                                 │ 176 M║
+║                                                          │      ║║JLink_Linux_V788f_x86_64.deb                              │  40 M║
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Far Manager, version 3.0.6060.0 x64                                                                                                   Copyright © 1996-2000 Eugene Roshal, Copyright © 2000-2022 Far Group                                                                                                                                                                                                        ╔════════════════════ D:\_Personal\AoC\2023\08 ════════════╤══════╗╔═══════════════════════════ D:\Install ═══════════════════╤══11:23║n                          Name                           │ Size ║║n                          Name                           │ Size ║║..                                                        │  Up  ║║vcast.win64.2022sp11                                      │Folder║║1.py                                                      │   465║║Vector AUTOSAR                                            │Folder║║2.py                                                      │  2752║║Vector CANalyzer 11                                       │Folder║║input.txt                                                 │ 13035║║Vector_Driver_Setup_11_0_4                                │Folder║║output.txt                                                │  89 M║║anki-2.1.60-windows-qt6.exe                               │ 136 M║║output2.txt                                               │ 22342║║balenaEtcher-Setup-1.18.4.exe                             │ 148 M║║output3.txt                                               │ 22244║║CANalyzer_11.0_SP4_64Bit.exe                              │1733 M║║small.txt                                                 │    59║║doxygen-1.9.5-setup.exe                                   │  45 M║║small2.txt                                                │   148║║Far30b6060.x64.20221208.msi                               │  13 M║║                                                          │      ║║ffmpeg-master-latest-win64-gpl-shared.zip                 │  50 M║║                                                          │      ║║Git-2.39.0-64-bit.exe                                     │  50 M║║                                                          │      ║║ImageMagick-7.1.1-5-Q16-HDRI-x64-dll.exe                  │  37 M║║                                                          │      ║║jdk-8u351-windows-x64.exe                                 │ 176 M║║                                                          │      ║║JLink_Linux_V788f_x86_64.deb                              │  40 M║║                                                 D:\_Personal\AoC\2023\08>python 2.py < input.txt > output3.txt                                                                         Traceback (most recent call last):                                                                                                       File "D:\_Personal\AoC\2023\08\2.py", line 84, in <module>                                                                               while curs[n][1] < mx:                                                                                                                       ^^^^^^^^^^^^^^^                                                                                                              KeyboardInterrupt                                                                                                                      ^C                                                                                                                                     D:\_Personal\AoC\2023\08>winmerge output2.txt output3.txt                                                                                                                                                                                                                     D:\_Personal\AoC\2023\08>winmerge output2.txt output3.txt                                                                                                                                                                                                                     D:\_Personal\AoC\2023\08>python 2.py < input.txt > output3.txt                                                                                                                                                                                                                D:\_Personal\AoC\2023\08>python 2.py < input.txt > output3.txt                                                                                                                                                                                                                D:\_Personal\AoC\2023\08>python 2.py < input.txt > output3.txt                                                                                                                                                                                                                D:\_Personal\AoC\2023\08>python 2.py < small2.txt > output2.txt                                                                                                                                                                                                               D:\_Personal\AoC\2023\08>small2.txt                                                                                                                                                                                                                                           D:\_Personal\AoC\2023\08>python 2.py < small2.txt > output2.txt                                                                                                                                                                                                               D:\_Personal\AoC\2023\08>python 2.py < input.txt > output2.txt                                                                                                                                                                                                                D:\_Personal\AoC\2023\08>python 2.py < input.txt > output2.txt                                                                         Traceback (most recent call last):                                                                                                       File "D:\_Personal\AoC\2023\08\2.py", line 84, in <module>                                                                               print(math.lcm(nums))                                                                                                                        ^^^^^^^^^^^^^^                                                                                                               TypeError: 'list' object cannot be interpreted as an integer                                                                                                                                                                                                                  D:\_Personal\AoC\2023\08>python 2.py < input.txt > output2.txt                                                                                                                                                                                                                D:\_Personal\AoC\2023\12>python 1.py < input.txt                                                                                         File "D:\_Personal\AoC\2023\12\1.py", line 33                                                                                            else                                                                                                                                       ^                                                                                                                              SyntaxError: expected ':'                                                                                                                                                                                                                                                     D:\_Personal\AoC\2023\12>python 1.py < input.txt                                                                                       Traceback (most recent call last):                                                                                                       File "D:\_Personal\AoC\2023\12\1.py", line 41, in <module>                                                                               proc([], src)                                                                                                                        File "D:\_Personal\AoC\2023\12\1.py", line 29, in proc                                                                                   ch = src[len[cur]]                                                                                                                              ~~~^^^^^                                                                                                                  TypeError: 'builtin_function_or_method' object is not subscriptable                                                                                                                                                                                                           D:\_Personal\AoC\2023\12>python 1.py < input.txt                                                                                       Traceback (most recent call last):                                                                                                       File "D:\_Personal\AoC\2023\12\1.py", line 41, in <module>                                                                               proc([], src)                                                                                                                        File "D:\_Personal\AoC\2023\12\1.py", line 31, in proc                                                                                   proc(cur + '.', src)                                                                                                                        ~~~~^~~~~                                                                                                                     TypeError: can only concatenate list (not "str") to list                                                                                                                                                                                                                      D:\_Personal\AoC\2023\12>python 1.py < input.txt                                                                                       0                                                                                                                                                                                                                                                                             D:\_Personal\AoC\2023\12>python 1.py < small.txt                                                                                       0                                                                                                                                                                                                                                                                             D:\_Personal\AoC\2023\12>python 1.py < small.txt                                                                                       21                                                                                                                                                                                                                                                                            D:\_Personal\AoC\2023\12>python 1.py < input.txt                                                                                       8075                                                                                                                                                                                                                                                                          D:\_Personal\AoC\2023\12>python 1.py < small.txt                                                                                       21                                                                                                                                                                                                                                                                            D:\_Personal\AoC\2023\12>python 2.py < small.txt                                                                                       1
+Traceback (most recent call last):
+  File "D:\_Personal\AoC\2023\12\2.py", line 43, in <module>
+    print(src, lengths)
+    ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    proc(cur + ['.'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    proc(cur + ['.'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    proc(cur + ['.'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    proc(cur + ['#'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    proc(cur + ['#'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    proc(cur + ['.'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    proc(cur + ['.'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    proc(cur + ['.'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    proc(cur + ['.'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    proc(cur + ['.'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    proc(cur + ['.'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    proc(cur + ['.'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    proc(cur + ['.'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    proc(cur + ['.'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    proc(cur + ['#'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    proc(cur + ['#'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    proc(cur + ['.'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    proc(cur + ['.'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    proc(cur + ['.'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    proc(cur + ['#'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    proc(cur + ['#'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    proc(cur + ['#'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    proc(cur + [ch], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    proc(cur + ['.'], src)
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc                                                                                   proc(cur + [ch], src)                                                                                                                File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc                                                                                   proc(cur + [ch], src)                                                                                                                File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc                                                                                   proc(cur + [ch], src)                                                                                                                File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc                                                                                   proc(cur + ['.'], src)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc                                                                                   proc(cur + [ch], src)                                                                                                                File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc                                                                                   proc(cur + ['#'], src)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc                                                                                   proc(cur + ['#'], src)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc                                                                                   proc(cur + [ch], src)                                                                                                                File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc                                                                                   proc(cur + [ch], src)                                                                                                                File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc                                                                                   proc(cur + ['.'], src)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc                                                                                   proc(cur + ['.'], src)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc                                                                                   proc(cur + [ch], src)                                                                                                                File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc                                                                                   proc(cur + [ch], src)                                                                                                                File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc                                                                                   proc(cur + [ch], src)                                                                                                                File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc                                                                                   proc(cur + ['#'], src)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 23, in proc                                                                                   def proc(cur, src):                                                                                                                                                                                                                                                       KeyboardInterrupt                                                                                                                      ^C                                                                                                                                     D:\_Personal\AoC\2023\12>python 2.py < small.txt                                                                                       ???.###????.###????.###????.###????.### [1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3]
+1
+.??..??...?##.?.??..??...?##.?.??..??...?##.?.??..??...?##.?.??..??...?##. [1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3]
+Traceback (most recent call last):
+  File "D:\_Personal\AoC\2023\12\2.py", line 44, in <module>
+    proc(cur + ['.'], src, n, i)
+^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    if n != 0:
+        ^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    if n != 0:
+        ^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    if n != 0:
+        ^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    if n != 0:
+        ^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    if n != 0:
+        ^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    if n != 0:
+        ^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    if n != 0:
+        ^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    if n != 0:
+        ^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    if n != 0:
+        ^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    if n != 0:
+        ^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    if n != 0:
+        ^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    if n != 0:
+        ^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc
+    if n != 0:
+        ^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc
+    return
+^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 32, in proc                                                                                   if n != 0:                                                                                                                                 ^^^^^^^                                                                                                                          File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc                                                                                   else:                                                                                                                                                                                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc                                                                                   return                                                                                                                             ^^^^^^^^^^^                                                                                                                              File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc                                                                                   return                                                                                                                             ^^^^^^^^^^^                                                                                                                              File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc                                                                                   else:                                                                                                                                                                                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc                                                                                   else:                                                                                                                                                                                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc                                                                                   return                                                                                                                             ^^^^^^^^^^^                                                                                                                              File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc                                                                                   return                                                                                                                             ^^^^^^^^^^^                                                                                                                              File "D:\_Personal\AoC\2023\12\2.py", line 34, in proc                                                                                   return                                                                                                                             ^^^^^^^^^^^                                                                                                                              File "D:\_Personal\AoC\2023\12\2.py", line 31, in proc                                                                                   else:                                                                                                                                                                                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 23, in proc                                                                                   def proc(cur, src, n, i):                                                                                                                                                                                                                                                 KeyboardInterrupt                                                                                                                      ^C                                                                                                                                     D:\_Personal\AoC\2023\12>python 2.py < small.txt                                                                                       ???.###????.###????.###????.###????.### [1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3]                                                  Traceback (most recent call last):                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 57, in <module>                                                                               proc([], src, 0, 0)                                                                                                                  File "D:\_Personal\AoC\2023\12\2.py", line 24, in proc                                                                                   if cur[-1] == '#':                                                                                                                        ~~~^^^^                                                                                                                         IndexError: list index out of range                                                                                                                                                                                                                                           D:\_Personal\AoC\2023\12>python 2.py < small.txt                                                                                       ???.###????.###????.###????.###????.### [1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3]                                                  Traceback (most recent call last):                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 57, in <module>                                                                               proc([], src, 0, 0)                                                                                                                  File "D:\_Personal\AoC\2023\12\2.py", line 24, in proc                                                                                   if cur[len(cur) - 1] == '#':                                                                                                              ~~~^^^^^^^^^^^^^^                                                                                                               IndexError: list index out of range                                                                                                                                                                                                                                           D:\_Personal\AoC\2023\12>python 2.py < small.txt                                                                                       ???.###????.###????.###????.###????.### [1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3]                                                  1                                                                                                                                      .??..??...?##.?.??..??...?##.?.??..??...?##.?.??..??...?##.?.??..??...?##. [1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3]               16384                                                                                                                                  ?#?#?#?#?#?#?#???#?#?#?#?#?#?#???#?#?#?#?#?#?#???#?#?#?#?#?#?#???#?#?#?#?#?#?#? [1, 3, 1, 6, 1, 3, 1, 6, 1, 3, 1, 6, 1, 3, 1, 6, 1, 3, 1, 6]                                                                                                                                  1                                                                                                                                      ????.#...#...?????.#...#...?????.#...#...?????.#...#...?????.#...#... [4, 1, 1, 4, 1, 1, 4, 1, 1, 4, 1, 1, 4, 1, 1]                    16                                                                                                                                     ????.######..#####.?????.######..#####.?????.######..#####.?????.######..#####.?????.######..#####. [1, 6, 5, 1, 6, 5, 1, 6, 5, 1, 6, 5, 1, 6, 5]                                                                                                                             2500                                                                                                                                   ?###??????????###??????????###??????????###??????????###???????? [3, 2, 1, 3, 2, 1, 3, 2, 1, 3, 2, 1, 3, 2, 1]                         911250                                                                                                                                 930152                                                                                                                                                                                                                                                                        D:\_Personal\AoC\2023\12>python 2.py < small.txt                                                                                       ???.###????.###????.###????.###????.### [1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3]                                                  1                                                                                                                                      .??..??...?##.?.??..??...?##.?.??..??...?##.?.??..??...?##.?.??..??...?##. [1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3]               16384                                                                                                                                  ?#?#?#?#?#?#?#???#?#?#?#?#?#?#???#?#?#?#?#?#?#???#?#?#?#?#?#?#???#?#?#?#?#?#?#? [1, 3, 1, 6, 1, 3, 1, 6, 1, 3, 1, 6, 1, 3, 1, 6, 1, 3, 1, 6]                                                                                                                                  1                                                                                                                                      ????.#...#...?????.#...#...?????.#...#...?????.#...#...?????.#...#... [4, 1, 1, 4, 1, 1, 4, 1, 1, 4, 1, 1, 4, 1, 1]                    16                                                                                                                                     ????.######..#####.?????.######..#####.?????.######..#####.?????.######..#####.?????.######..#####. [1, 6, 5, 1, 6, 5, 1, 6, 5, 1, 6, 5, 1, 6, 5]                                                                                                                             2500                                                                                                                                   ?###??????????###??????????###??????????###??????????###???????? [3, 2, 1, 3, 2, 1, 3, 2, 1, 3, 2, 1, 3, 2, 1]                         506250                                                                                                                                 525152                                                                                                                                                                                                                                                                        D:\_Personal\AoC\2023\12>python 2.py < input.txt                                                                                       ??.?#??#?#??##???????.?#??#?#??##???????.?#??#?#??##???????.?#??#?#??##???????.?#??#?#??##???? [2, 4, 6, 1, 2, 4, 6, 1, 2, 4, 6, 1, 2, 4, 6, 1, 2, 4, 6, 1]
+162
+?????#?..?#???????#?..?#???????#?..?#???????#?..?#???????#?..?#? [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+307392
+???#???#.?#?????.#????#???#.?#?????.#????#???#.?#?????.#????#???#.?#?????.#????#???#.?#?????.# [5, 1, 1, 1, 2, 1, 5, 1, 1, 1, 2, 1, 5, 1, 1, 1, 2, 1, 5, 1, 1, 1, 2, 1, 5, 1, 1, 1, 2, 1]
+32
+???#???#.#??#??##??????#???#.#??#??##??????#???#.#??#??##??????#???#.#??#??##??????#???#.#??#??##?? [1, 1, 1, 1, 9, 1, 1, 1, 1, 9, 1, 1, 1, 1, 9, 1, 1, 1, 1, 9, 1, 1, 1, 1, 9]
+1885
+????###??.????#.#?????###??.????#.#?????###??.????#.#?????###??.????#.#?????###??.????#.# [5, 1, 2, 1, 5, 1, 2, 1, 5, 1, 2, 1, 5, 1, 2, 1, 5, 1, 2, 1]
+60943
+.?##?##?.?????#?#?.?.?##?##?.?????#?#?.?.?##?##?.?????#?#?.?.?##?##?.?????#?#?.?.?##?##?.?????#?#?. [6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
+1024
+?????#???#??#??????????#???#??#??????????#???#??#??????????#???#??#??????????#???#??#???? [3, 8, 3, 8, 3, 8, 3, 8, 3, 8]
+87998
+???#????.??????#????.??????#????.??????#????.??????#????.?? [3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1]
+19511227
+?#?#???????#?#?..??#?#???????#?#?..??#?#???????#?#?..??#?#???????#?#?..??#?#???????#?#?.. [5, 4, 5, 4, 5, 4, 5, 4, 5, 4]
+5184
+??????##????.#?????????##????.#?????????##????.#?????????##????.#?????????##????.#?? [1, 9, 1, 1, 1, 9, 1, 1, 1, 9, 1, 1, 1, 9, 1, 1, 1, 9, 1, 1]
+768
+#??????..???#???????#??????..???#???????#??????..???#???????#??????..???#???????#??????..???#?????? [2, 4, 1, 3, 1, 2, 4, 1, 3, 1, 2, 4, 1, 3, 1, 2, 4, 1, 3, 1, 2, 4, 1, 3, 1]
+Traceback (most recent call last):
+  File "D:\_Personal\AoC\2023\12\2.py", line 59, in <module>
+    src = line[0]
+    ^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  [Previous line repeated 2 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  [Previous line repeated 3 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  [Previous line repeated 3 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  [Previous line repeated 3 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc
+    else:
+
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc
+    cntres += 1
+^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc
+    if ch == '?':
+        ^^^^^^^^^^                                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc                                                                                   else:                                                                                                                                                                                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc                                                                                   cntres += 1                                                                                                                        ^^^^^^^^^^^^^^^^                                                                                                                         File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc                                                                                   cntres += 1                                                                                                                        ^^^^^^^^^^^^^^^^                                                                                                                         File "D:\_Personal\AoC\2023\12\2.py", line 49, in proc                                                                                   if ch == '?':                                                                                                                              ^^^^^^^^^^                                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc                                                                                   else:                                                                                                                                                                                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc                                                                                   cntres += 1                                                                                                                        ^^^^^^^^^^^^^^^^                                                                                                                         File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc                                                                                   cntres += 1                                                                                                                        ^^^^^^^^^^^^^^^^                                                                                                                         File "D:\_Personal\AoC\2023\12\2.py", line 46, in proc                                                                                   cntres += 1                                                                                                                        ^^^^^^^^^^^^^^^^                                                                                                                         [Previous line repeated 1 more time]                                                                                                   File "D:\_Personal\AoC\2023\12\2.py", line 47, in proc                                                                                   else:                                                                                                                                                                                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 41, in proc                                                                                   if cur[-1] == '#':                                                                                                                        ^^^^^^^^^^^^^^^^                                                                                                                  File "D:\_Personal\AoC\2023\12\2.py", line -1, in compl                                                                              KeyboardInterrupt                                                                                                                      ^C                                                                                                                                     D:\_Personal\AoC\2023\12>python 2.py < small.txt                                                                                       0 :  1                                                                                                                                 1 :  16384                                                                                                                             2 :  1                                                                                                                                 3 :  16                                                                                                                                4 :  2500                                                                                                                              5 :  506250                                                                                                                            525152                                                                                                                                                                                                                                                                        D:\_Personal\AoC\2023\12>python 2.py < input.txt                                                                                       0 :  162
+1 :  307392
+2 :  32
+3 :  1885
+4 :  60943
+5 :  1024
+6 :  87998
+Traceback (most recent call last):
+  File "D:\_Personal\AoC\2023\12\2.py", line 64, in <module>
+    proc([], src, 0, 0)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    proc(cur + ['#'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    proc(cur + ['#'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(cur + [ch], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    proc(cur + ['#'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(cur + [ch], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    proc(cur + ['#'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    proc(cur + ['#'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    proc(cur + ['#'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(cur + [ch], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    proc(cur + ['#'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(cur + [ch], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    proc(cur + ['#'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    proc(cur + ['#'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(cur + [ch], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    proc(cur + ['#'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(cur + [ch], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    proc(cur + ['#'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    proc(cur + ['#'], src, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    proc(cur + ['.'], src, n, i)                                                                                                         File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc                                                                                   proc(cur + ['#'], src, n, i)                                                                                                         File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc                                                                                   proc(cur + ['#'], src, n, i)                                                                                                         File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(cur + [ch], src, n, i)                                                                                                          File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc                                                                                   proc(cur + ['.'], src, n, i)                                                                                                         File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc                                                                                   proc(cur + ['.'], src, n, i)                                                                                                         File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc                                                                                   proc(cur + ['.'], src, n, i)                                                                                                         [Previous line repeated 1 more time]                                                                                                   File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(cur + [ch], src, n, i)                                                                                                          File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc                                                                                   proc(cur + ['.'], src, n, i)                                                                                                         File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc                                                                                   proc(cur + ['.'], src, n, i)                                                                                                         File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc                                                                                   proc(cur + ['.'], src, n, i)                                                                                                         File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc                                                                                   proc(cur + ['#'], src, n, i)                                                                                                         File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc                                                                                   proc(cur + ['.'], src, n, i)                                                                                                         File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc                                                                                   proc(cur + ['.'], src, n, i)                                                                                                         File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(cur + [ch], src, n, i)                                                                                                          File "D:\_Personal\AoC\2023\12\2.py", line 23, in proc                                                                                   def proc(cur, src, n, i):                                                                                                                                                                                                                                                 KeyboardInterrupt                                                                                                                      ^C                                                                                                                                     D:\_Personal\AoC\2023\12>python 2.py < input.txt                                                                                       Traceback (most recent call last):                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 66, in <module>                                                                               print(now.time(), k, ':', cntres)                                                                                                            ^^^                                                                                                                          NameError: name 'now' is not defined. Did you mean: 'pow'?                                                                                                                                                                                                                    D:\_Personal\AoC\2023\12>python 2.py < input.txt                                                                                       Traceback (most recent call last):                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 66, in <module>                                                                               print(now.time(), k, ':', cntres)                                                                                                            ^^^                                                                                                                          NameError: name 'now' is not defined. Did you mean: 'pow'?                                                                                                                                                                                                                    D:\_Personal\AoC\2023\12>python 2.py < input.txt                                                                                       Traceback (most recent call last):                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 66, in <module>                                                                               print(datetime.now.time(), k, ':', cntres)                                                                                                   ^^^^^^^^^^^^                                                                                                                 AttributeError: module 'datetime' has no attribute 'now'                                                                                                                                                                                                                      D:\_Personal\AoC\2023\12>python 2.py < input.txt                                                                                       Traceback (most recent call last):                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 66, in <module>                                                                               print(datetime.datetime.now.time(), k, ':', cntres)                                                                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^                                                                                                   AttributeError: 'builtin_function_or_method' object has no attribute 'time'                                                                                                                                                                                                   D:\_Personal\AoC\2023\12>python 2.py < input.txt                                                                                       12:23:39.569267 0 : 162
+12:23:42.607291 1 : 307392
+12:23:43.069783 2 : 32
+12:23:43.177582 3 : 1885
+12:23:43.849154 4 : 60943
+12:23:43.868153 5 : 1024
+12:23:45.299598 6 : 87998
+12:25:21.975087 7 : 19511227
+12:25:22.047087 8 : 5184
+12:25:22.097096 9 : 768
+Traceback (most recent call last):
+  File "D:\_Personal\AoC\2023\12\2.py", line 64, in <module>
+    src = line[0]
+    ^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  [Previous line repeated 2 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  [Previous line repeated 2 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  [Previous line repeated 3 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc
+    ch = src[curlen]
+        ^^^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc
+    if ch == '?':
+        ^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc                                                                                   ch = src[curlen]                                                                                                                           ^^^^^^^^^^^^^                                                                                                                    File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                                 ^^^^^^^^^^^^^^^^^^^^^^^                                                                                                              File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                                 ^^^^^^^^^^^^^^^^^^^^^^^                                                                                                              File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc                                                                                   ch = src[curlen]                                                                                                                           ^^^^^^^^^^^^^                                                                                                                    File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc                                                                                   ch = src[curlen]                                                                                                                           ^^^^^^^^^^^^^                                                                                                                    File "D:\_Personal\AoC\2023\12\2.py", line 50, in proc                                                                                   ch = src[curlen]                                                                                                                           ^^^^^^^^^^^^^                                                                                                                    File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                                 ^^^^^^^^^^^^^^^^^^^^^^^                                                                                                              File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc                                                                                   if ch == '?':                                                                                                                              ^^^^^^^^^^                                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc                                                                                   if ch == '?':                                                                                                                              ^^^^^^^^^^                                                                                                                       File "D:\_Personal\AoC\2023\12\2.py", line 51, in proc                                                                                   if ch == '?':                                                                                                                              ^^^^^^^^^^                                                                                                                       [Previous line repeated 1 more time]                                                                                                   File "D:\_Personal\AoC\2023\12\2.py", line 23, in proc                                                                                                                                                                                                                      KeyboardInterrupt                                                                                                                      ^C                                                                                                                                     D:\_Personal\AoC\2023\12>python 2.py < input.txt                                                                                       12:39:18.529571 0 : 162
+12:39:19.941618 1 : 307392
+12:39:20.127783 2 : 32
+12:39:20.161786 3 : 1885
+12:39:20.428421 4 : 60943
+12:39:20.434519 5 : 1024
+12:39:20.978652 6 : 87998
+12:39:59.836757 7 : 19511227
+12:39:59.863869 8 : 5184
+12:39:59.880865 9 : 768
+Traceback (most recent call last):
+  File "D:\_Personal\AoC\2023\12\2.py", line 70, in <module>
+    proc(0, 0, 0)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 2 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 4 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 2 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 25, in proc                                                                                   def proc(curlen, n, i):                                                                                                                                                                                                                                                   KeyboardInterrupt                                                                                                                      ^C                                                                                                                                     D:\_Personal\AoC\2023\12>python 2.py < input.txt                                                                                       12:44:51.827585 0 : 162 162
+12:44:53.181755 1 : 307392 307554
+12:44:53.352488 2 : 32 307586
+12:44:53.385481 3 : 1885 309471
+12:44:53.629821 4 : 60943 370414
+12:44:53.636825 5 : 1024 371438
+12:44:54.133967 6 : 87998 459436
+12:45:42.202793 7 : 19511227 19970663
+12:45:42.254424 8 : 5184 19975847
+12:45:42.275602 9 : 768 19976615
+Traceback (most recent call last):
+  File "D:\_Personal\AoC\2023\12\2.py", line 70, in <module>
+    cntres = 0
+    ^^^^^^^^^^^
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 2 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               [Previous line repeated 1 more time]                                                                                                   File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 25, in proc                                                                                   def proc(curlen, n, i):                                                                                                                                                                                                                                                   KeyboardInterrupt                                                                                                                      ^C                                                                                                                                     D:\_Personal\AoC\2023\12>python 2.py < input_.txt                                                                                      Traceback (most recent call last):
+  File "D:\_Personal\AoC\2023\12\2.py", line 67, in <module>
+    proc(0, 0, 0)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 3 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 2 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 2 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 25, in proc                                                                                   def proc(curlen, n, i):                                                                                                                                                                                                                                                   KeyboardInterrupt                                                                                                                      ^C                                                                                                                                     D:\_Personal\AoC\2023\12>python 2.py < input_.txt                                                                                      13:11:06.391802 0 : 2 2
+Traceback (most recent call last):
+  File "D:\_Personal\AoC\2023\12\2.py", line 67, in <module>
+    proc(0, 0, 0)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 3 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 3 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               [Previous line repeated 1 more time]                                                                                                   File "D:\_Personal\AoC\2023\12\2.py", line 25, in proc                                                                                   def proc(curlen, n, i):                                                                                                                                                                                                                                                   KeyboardInterrupt                                                                                                                      ^C                                                                                                                                     D:\_Personal\AoC\2023\12>python 2.py < input_.txt                                                                                      Traceback (most recent call last):
+  File "D:\_Personal\AoC\2023\12\2.py", line 67, in <module>
+    proc(0, 0, 0)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 3 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 2 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 25, in proc                                                                                   def proc(curlen, n, i):                                                                                                                                                                                                                                                   KeyboardInterrupt                                                                                                                      ^C                                                                                                                                     D:\_Personal\AoC\2023\12>python 2.py < input_.txt                                                                                      15:22:38.372107 0 : 8007862 8007862
+15:22:38.443109 1 : 24576 8032438
+15:23:04.051607 2 : 16384 8048822
+15:23:04.085874 3 : 243 8049065
+15:23:04.086820 4 : 34 8049099
+15:23:04.087941 5 : 55 8049154
+15:23:04.089674 6 : 243 8049397
+15:23:04.125423 7 : 162 8049559
+15:23:04.139397 8 : 7203 8056762
+15:23:04.164476 9 : 14406 8071168
+15:23:50.420613 10 : 29598795 37669963
+Traceback (most recent call last):
+  File "D:\_Personal\AoC\2023\12\2.py", line 67, in <module>
+    proc(0, 0, 0)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 2 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 2 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 3 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 25, in proc                                                                                   def proc(curlen, n, i):                                                                                                                                                                                                                                                   KeyboardInterrupt                                                                                                                      ^C                                                                                                                                     D:\_Personal\AoC\2023\12>python 2.py < input_.txt                                                                                      15:35:18.170078 ??????..??????#?#?#???????..??????#?#?#???????..??????#?#?#???????..??????#?#?#???????..??? [1, 2, 1, 1, 6, 1, 1, 2, 1, 1, 6, 1, 1, 2, 1, 1, 6, 1, 1, 2, 1, 1, 6, 1, 1, 2, 1, 1]
+15:38:28.400408 0 : 1574 1574
+15:38:28.400408 ?.?.#?#?#??????#??.??.?.#?#?#??????#??.??.?.#?#?#??????#??.??.?.#?#?#??????#??.??.?.#?#?#??????#??. [1, 1, 5, 3, 1, 1, 1, 1, 5, 3, 1, 1, 1, 1, 5, 3, 1, 1, 1, 1, 5, 3, 1, 1, 1, 1, 5, 3, 1, 1]
+15:38:33.278784 1 : 512 2086
+15:38:33.278784 #???.????.????#???.????.????#???.????.????#???.????.????#???.????.??? [3, 2, 2, 3, 2, 2, 3, 2, 2, 3, 2, 2, 3, 2, 2]
+15:38:35.460628 2 : 39366 41452
+15:38:35.460628 .????????#??##??#????.????????#??##??#????.????????#??##??#????.????????#??##??#????.????????#??##??#??? [1, 13, 1, 1, 13, 1, 1, 13, 1, 1, 13, 1, 1, 13, 1]
+15:41:30.462180 3 : 2742926 2784378
+15:41:30.463118 ????#??????.?????#??????.?????#??????.?????#??????.?????#??????. [1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3]
+15:42:20.778157 4 : 4357332 7141710
+15:42:20.779055 ..?##.????#??..?##.????#??..?##.????#??..?##.????#??..?##.????#? [3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1]
+15:42:20.784056 5 : 768 7142478
+15:42:20.785058 ??##??##?#???????##??##?#???????##??##?#???????##??##?#???????##??##?#???? [1, 11, 1, 11, 1, 11, 1, 11, 1, 11]
+15:42:20.786054 6 : 272 7142750
+15:42:20.787066 ???????????#????????????????????#????????????????????#????????????????????#????????????????????#???????? [6, 5, 1, 1, 6, 5, 1, 1, 6, 5, 1, 1, 6, 5, 1, 1, 6, 5, 1, 1]
+Traceback (most recent call last):
+  File "D:\_Personal\AoC\2023\12\2.py", line 70, in <module>
+    proc(0, 0, 0)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 8 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 2 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 2 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 3 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 13 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 2 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 1 more time]
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc
+    proc(curlen + 1, n, i)
+  [Previous line repeated 2 more times]
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc
+    proc(curlen + 1, n, i)
+  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               [Previous line repeated 3 more times]                                                                                                  File "D:\_Personal\AoC\2023\12\2.py", line 58, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               [Previous line repeated 2 more times]                                                                                                  File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 53, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 55, in proc                                                                                   proc(curlen + 1, n, i)                                                                                                               File "D:\_Personal\AoC\2023\12\2.py", line 25, in proc                                                                                   def proc(curlen, n, i):                                                                                                                                                                                                                                                   KeyboardInterrupt                                                                                                                      ^C                                                                                                                                     D:\_Personal\AoC\2023\12>python 22.py < input_.txt                                                                                     18:28:06.811442 ??????..??????#?#?#???????..??????#?#?#???????..??????#?#?#???????..??????#?#?#???????..??? [1, 2, 1, 1, 6, 1, 1, 2, 1, 1, 6, 1, 1, 2, 1, 1, 6, 1, 1, 2, 1, 1, 6, 1, 1, 2, 1, 1]                                                                              18:28:06.961449 0 : 1574 1574                                                                                                          18:28:06.962452 ?.?.#?#?#??????#??.??.?.#?#?#??????#??.??.?.#?#?#??????#??.??.?.#?#?#??????#??.??.?.#?#?#??????#??. [1, 1, 5, 3, 1, 1, 1, 1, 5, 3, 1, 1, 1, 1, 5, 3, 1, 1, 1, 1, 5, 3, 1, 1, 1, 1, 5, 3, 1, 1]                                                                18:28:06.995849 1 : 512 2086                                                                                                           18:28:06.995849 #???.????.????#???.????.????#???.????.????#???.????.????#???.????.??? [3, 2, 2, 3, 2, 2, 3, 2, 2, 3, 2, 2, 3, 2, 2]    18:28:07.193624 2 : 39366 41452                                                                                                        18:28:07.193624 .????????#??##??#????.????????#??##??#????.????????#??##??#????.????????#??##??#????.????????#??##??#??? [1, 13, 1, 1, 13, 1, 1, 13, 1, 1, 13, 1, 1, 13, 1]                                                                                                   18:28:15.896096 3 : 2742926 2784378                                                                                                    18:28:15.897135 ????#??????.?????#??????.?????#??????.?????#??????.?????#??????. [1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3]         18:28:35.884657 4 : 4357332 7141710                                                                                                    18:28:35.884657 ..?##.????#??..?##.????#??..?##.????#??..?##.????#??..?##.????#? [3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1]         18:28:35.899657 5 : 768 7142478                                                                                                        18:28:35.901133 ??##??##?#???????##??##?#???????##??##?#???????##??##?#???????##??##?#???? [1, 11, 1, 11, 1, 11, 1, 11, 1, 11]         18:28:35.903404 6 : 272 7142750                                                                                                        18:28:35.903404 ???????????#????????????????????#????????????????????#????????????????????#????????????????????#???????? [6, 5, 1, 1, 6, 5, 1, 1, 6, 5, 1, 1, 6, 5, 1, 1, 6, 5, 1, 1]                                                                                         Traceback (most recent call last):                                                                                                       File "D:\_Personal\AoC\2023\12\22.py", line 77, in <module>                                                                            File "D:\_Personal\AoC\2023\12\22.py", line 64, in proc                                                                                File "D:\_Personal\AoC\2023\12\22.py", line 64, in proc                                                                                File "D:\_Personal\AoC\2023\12\22.py", line 64, in proc
+  [Previous line repeated 15 more times]                                                                                                 File "D:\_Personal\AoC\2023\12\22.py", line 55, in proc                                                                                  proc(0, S - LL, 0)                                                                                                                                      ^^                                                                                                                KeyboardInterrupt                                                                                                                      ^C                                                                                                                                     D:\_Personal\AoC\2023\12>python 22.py < input_.txt                                                                                     19:29:31.435886 ??????..??????#?#?#???????..??????#?#?#???????..??????#?#?#???????..??????#?#?#???????..??? [1, 2, 1, 1, 6, 1, 1, 2, 1, 1, 6, 1, 1, 2, 1, 1, 6, 1, 1, 2, 1, 1, 6, 1, 1, 2, 1, 1]
+19:29:31.524698 0 : 1574 1574
+19:29:31.525699 ?.?.#?#?#??????#??.??.?.#?#?#??????#??.??.?.#?#?#??????#??.??.?.#?#?#??????#??.??.?.#?#?#??????#??. [1, 1, 5, 3, 1, 1, 1, 1, 5, 3, 1, 1, 1, 1, 5, 3, 1, 1, 1, 1, 5, 3, 1, 1, 1, 1, 5, 3, 1, 1]
+19:29:31.547140 1 : 512 2086
+19:29:31.547140 #???.????.????#???.????.????#???.????.????#???.????.????#???.????.??? [3, 2, 2, 3, 2, 2, 3, 2, 2, 3, 2, 2, 3, 2, 2]
+19:29:31.641481 2 : 39366 41452
+19:29:31.642376 .????????#??##??#????.????????#??##??#????.????????#??##??#????.????????#??##??#????.????????#??##??#??? [1, 13, 1, 1, 13, 1, 1, 13, 1, 1, 13, 1, 1, 13, 1]
+19:29:36.726170 3 : 2742926 2784378
+19:29:36.727240 ????#??????.?????#??????.?????#??????.?????#??????.?????#??????. [1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3]
+19:29:43.221968 4 : 4357332 7141710
+19:29:43.221968 ..?##.????#??..?##.????#??..?##.????#??..?##.????#??..?##.????#? [3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1]
+19:29:43.226056 5 : 768 7142478
+19:29:43.226056 ??##??##?#???????##??##?#???????##??##?#???????##??##?#???????##??##?#???? [1, 11, 1, 11, 1, 11, 1, 11, 1, 11]
+19:29:43.227056 6 : 272 7142750
+19:29:43.227056 ???????????#????????????????????#????????????????????#????????????????????#????????????????????#???????? [6, 5, 1, 1, 6, 5, 1, 1, 6, 5, 1, 1, 6, 5, 1, 1, 6, 5, 1, 1]
+15:59:34.412991 7 : 39392530879 39399673629
+15:59:34.414003 ?####?#??#?..??####?#??#?..??####?#??#?..??####?#??#?..??####?#??#?.. [7, 1, 7, 1, 7, 1, 7, 1, 7, 1]
+15:59:34.414890 8 : 32 39399673661
+15:59:34.414890 .??#?#??##??????.##??.??#?#??##??????.##??.??#?#??##??????.##??.??#?#??##??????.##??.??#?#??##??????.##? [11, 3, 11, 3, 11, 3, 11, 3, 11, 3]
+15:59:34.415890 9 : 243 39399673904
+15:59:34.416921 ???????????????????????????????????????????????????????????????? [2, 2, 1, 1, 2, 2, 1, 1, 2, 2, 1, 1, 2, 2, 1, 1, 2, 2, 1, 1]
+17:54:44.402562 10 : 3247943160 42647617064
+17:54:44.402562 ??????.?.?????????????.?.?????????????.?.?????????????.?.?????????????.?.?????? [4, 3, 4, 3, 4, 3, 4, 3, 4, 3]
+17:54:55.187960 11 : 4704016 42652321080
+17:54:55.187960 ?#.??#??.?#?????#.??#??.?#?????#.??#??.?#?????#.??#??.?#?????#.??#??.?#??? [1, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1]
+17:54:55.313960 12 : 37001 42652358081
+17:54:55.313960 ???????..???????????..???????????..???????????..???????????..??? [2, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1]
+21:22:59.556873 13 : 6429402112 49081760193
+21:22:59.556873 ???.#?.?????.????.#?.?????.????.#?.?????.????.#?.?????.????.#?.?????. [1, 1, 4, 1, 1, 4, 1, 1, 4, 1, 1, 4, 1, 1, 4]
+21:22:59.646491 14 : 24576 49081784769
+21:22:59.646491 ?#??.?..?#???...??#??.?..?#???...??#??.?..?#???...??#??.?..?#???...??#??.?..?#???... [2, 5, 2, 5, 2, 5, 2, 5, 2, 5]
+21:22:59.646491 15 : 32 49081784801
+21:22:59.647550 .#?.#?#.?????..##????.#?.#?#.?????..##????.#?.#?#.?????..##????.#?.#?#.?????..##????.#?.#?#.?????..##??? [1, 1, 1, 1, 1, 5, 1, 1, 1, 1, 1, 5, 1, 1, 1, 1, 1, 5, 1, 1, 1, 1, 1, 5, 1, 1, 1, 1, 1, 5]
+21:22:59.670490 16 : 7776 49081792577
+21:22:59.671494 ???.?.?..?.???#.????.?.?..?.???#.????.?.?..?.???#.????.?.?..?.???#.????.?.?..?.???#. [3, 1, 1, 2, 3, 1, 1, 2, 3, 1, 1, 2, 3, 1, 1, 2, 3, 1, 1, 2]
+21:23:00.379008 17 : 124416 49081916993
+21:23:00.379008 ??????????.?..#??????????????.?..#??????????????.?..#??????????????.?..#??????????????.?..#??? [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+21:23:13.672199 18 : 1366533 49083283526
+21:23:13.672199 ?#???##????#?.?????#??#???##????#?.?????#??#???##????#?.?????#??#???##????#?.?????#??#???##????#?.?????# [1, 1, 2, 4, 2, 1, 1, 1, 2, 4, 2, 1, 1, 1, 2, 4, 2, 1, 1, 1, 2, 4, 2, 1, 1, 1, 2, 4, 2, 1]
+21:23:13.673154 19 : 0 49083283526
+21:23:13.673154 .?#????#?????#??.?.?#????#?????#??.?.?#????#?????#??.?.?#????#?????#??.?.?#????#?????#??. [2, 1, 3, 5, 2, 1, 3, 5, 2, 1, 3, 5, 2, 1, 3, 5, 2, 1, 3, 5]
+21:23:13.684211 20 : 3125 49083286651
+21:23:13.684211 ?.##.?#?##?#.?????.##.?#?##?#.?????.##.?#?##?#.?????.##.?#?##?#.?????.##.?#?##?#.??? [2, 6, 2, 2, 6, 2, 2, 6, 2, 2, 6, 2, 2, 6, 2]
+21:23:13.685107 21 : 512 49083287163
+21:23:13.686103 ?.???????.?.###??#????.???????.?.###??#????.???????.?.###??#????.???????.?.###??#????.???????.?.###??#?? [3, 2, 1, 8, 3, 2, 1, 8, 3, 2, 1, 8, 3, 2, 1, 8, 3, 2, 1, 8]
+21:23:13.687105 22 : 243 49083287406
+21:23:13.687105 ???#?????.??.??.#?????#?????.??.??.#?????#?????.??.??.#?????#?????.??.??.#?????#?????.??.??.#? [5, 1, 2, 1, 1, 5, 1, 2, 1, 1, 5, 1, 2, 1, 1, 5, 1, 2, 1, 1, 5, 1, 2, 1, 1]
+21:25:23.834457 23 : 27647168 49110934574
+21:25:23.835457 #?..???????#?#.?#?..???????#?#.?#?..???????#?#.?#?..???????#?#.?#?..???????#?#. [1, 3, 3, 1, 1, 3, 3, 1, 1, 3, 3, 1, 1, 3, 3, 1, 1, 3, 3, 1]
+21:25:23.844450 24 : 32 49110934606
+21:25:23.844450 ???#???...?????#???...?????#???...?????#???...?????#???...? [4, 1, 4, 1, 4, 1, 4, 1, 4, 1]
+21:25:24.105451 25 : 136864 49111071470
+21:25:24.105451 ?.??#..??..???.??.??#..??..???.??.??#..??..???.??.??#..??..???.??.??#..??..???. [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+21:25:24.138398 26 : 8378 49111079848
+21:25:24.138398 ...????????#.??...????????#.??...????????#.??...????????#.??...????????#.? [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
+21:25:24.139442 27 : 1 49111079849
+21:25:24.139442 ????.??????????.??????????.??????????.??????????.????? [3, 1, 3, 1, 3, 1, 3, 1, 3, 1]
+21:25:44.817096 28 : 14255531 49125335380
+21:25:44.817096 .???.??#?#???.???.??#?#???.???.??#?#???.???.??#?#???.???.??#?#?? [3, 1, 1, 3, 3, 1, 1, 3, 3, 1, 1, 3, 3, 1, 1, 3, 3, 1, 1, 3]
+21:25:44.818048 29 : 1 49125335381
+21:25:44.818048 .??.#???.?#?????###??.??.#???.?#?????###??.??.#???.?#?????###??.??.#???.?#?????###??.??.#???.?#?????###? [1, 4, 3, 5, 1, 4, 3, 5, 1, 4, 3, 5, 1, 4, 3, 5, 1, 4, 3, 5]
+21:25:45.395332 30 : 307328 49125642709
+21:25:45.395332 ?#?.?????????.??##.???#?.?????????.??##.???#?.?????????.??##.???#?.?????????.??##.???#?.?????????.??##.? [1, 2, 4, 2, 1, 2, 4, 2, 1, 2, 4, 2, 1, 2, 4, 2, 1, 2, 4, 2]
+21:31:37.845403 31 : 30780792 49156423501
+21:31:37.845403 ???.???#..??.??????.???#..??.??????.???#..??.??????.???#..??.??????.???#..??.?? [2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1]
+21:37:40.514603 32 : 58250496 49214673997
+21:37:40.514603 ???#????##?????.#?????#????##?????.#?????#????##?????.#?????#????##?????.#?????#????##?????.#? [6, 2, 3, 1, 6, 2, 3, 1, 6, 2, 3, 1, 6, 2, 3, 1, 6, 2, 3, 1]
+21:37:40.533608 33 : 5184 49214679181
+21:37:40.533608 ?????..????##?????????..????##?????????..????##?????????..????##?????????..????##??? [3, 1, 7, 3, 1, 7, 3, 1, 7, 3, 1, 7, 3, 1, 7]
+21:37:41.092098 34 : 225750 49214904931
+21:37:41.093166 ???????.#.?????.?.??????????.#.?????.?.??????????.#.?????.?.??????????.#.?????.?.??????????.#.?????.?.?? [1, 4, 1, 3, 2, 1, 4, 1, 3, 2, 1, 4, 1, 3, 2, 1, 4, 1, 3, 2, 1, 4, 1, 3, 2]
+21:37:56.255135 35 : 186624 49215091555
+21:37:56.255135 ?#??????.???#?#???????#??????.???#?#???????#??????.???#?#???????#??????.???#?#???????#??????.???#?#????? [1, 5, 10, 1, 5, 10, 1, 5, 10, 1, 5, 10, 1, 5, 10]
+21:37:56.257158 36 : 512 49215092067
+21:37:56.257158 .??????????#???.??????????#???.??????????#???.??????????#???.??????????#?? [1, 1, 2, 3, 1, 1, 2, 3, 1, 1, 2, 3, 1, 1, 2, 3, 1, 1, 2, 3]
+21:57:38.565457 37 : 617630260 49832722327
+21:57:38.565457 ?#??..???#.??##.?#??#??..???#.??##.?#??#??..???#.??##.?#??#??..???#.??##.?#??#??..???#.??##.?# [1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 4, 1]
+21:57:38.565457 38 : 0 49832722327
+21:57:38.565457 ???#?????.???#?????#?????.???#?????#?????.???#?????#?????.???#?????#?????.???#? [2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1]
+22:54:37.909746 39 : 642356816 50475079143
+22:54:37.910659 ?.##?#???.???#?#?##??.##?#???.???#?#?##??.##?#???.???#?#?##??.##?#???.???#?#?##??.##?#???.???#?#?## [6, 1, 7, 6, 1, 7, 6, 1, 7, 6, 1, 7, 6, 1, 7]
+22:54:37.910659 40 : 0 50475079143
+22:54:37.910659 .??#??#?##???????.??#??#?##???????.??#??#?##???????.??#??#?##???????.??#??#?##?????? [3, 4, 1, 1, 3, 4, 1, 1, 3, 4, 1, 1, 3, 4, 1, 1, 3, 4, 1, 1]
+22:54:42.316021 41 : 1920000 50476999143
+22:54:42.316021 ..??.?.????..??.?.????..??.?.????..??.?.????..??.?.??? [2, 1, 2, 1, 2, 1, 2, 1, 2, 1]
+22:54:42.647916 42 : 195188 50477194331
+22:54:42.647916 ??????#?#??#??.???#???????#?#??#??.???#???????#?#??#??.???#???????#?#??#??.???#???????#?#??#??.???# [1, 1, 7, 1, 2, 1, 1, 1, 7, 1, 2, 1, 1, 1, 7, 1, 2, 1, 1, 1, 7, 1, 2, 1, 1, 1, 7, 1, 2, 1]
+22:54:42.648814 43 : 0 50477194331
+22:54:42.648814 ???.?..#???#?.###??????.?..#???#?.###??????.?..#???#?.###??????.?..#???#?.###??????.?..#???#?.###?? [2, 5, 5, 2, 5, 5, 2, 5, 5, 2, 5, 5, 2, 5, 5]
+22:54:42.648814 44 : 32 50477194363
+22:54:42.649868 ???#.#..?######.???????#.#..?######.???????#.#..?######.???????#.#..?######.???????#.#..?######.??? [1, 1, 1, 7, 1, 1, 1, 1, 1, 7, 1, 1, 1, 1, 1, 7, 1, 1, 1, 1, 1, 7, 1, 1, 1, 1, 1, 7, 1, 1]
+22:54:42.654904 45 : 512 50477194875
+22:54:42.654904 ??#?#..#?.?.??##???#?#..#?.?.??##???#?#..#?.?.??##???#?#..#?.?.??##???#?#..#?.?.??## [5, 2, 1, 4, 5, 2, 1, 4, 5, 2, 1, 4, 5, 2, 1, 4, 5, 2, 1, 4]
+22:54:42.654904 46 : 0 50477194875
+22:54:42.654904 ??#.#.?????#???#????#.#.?????#???#????#.#.?????#???#????#.#.?????#???#????#.#.?????#???#? [1, 1, 1, 1, 8, 1, 1, 1, 1, 8, 1, 1, 1, 1, 8, 1, 1, 1, 1, 8, 1, 1, 1, 1, 8]
+22:54:42.659912 47 : 768 50477195643
+22:54:42.659912 ?????#?????..??????#?????..??????#?????..??????#?????..??????#?????.. [2, 1, 2, 1, 2, 1, 2, 1, 2, 1]
+22:54:48.802372 48 : 1947679 50479143322
+22:54:48.802372 ..???????????..???????????..???????????..???????????..?????????? [1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1]
+23:04:44.311440 49 : 326199122 50805342444
+23:04:44.311440 ?.????????#.??####???.????????#.??####???.????????#.??####???.????????#.??####???.????????#.??####? [1, 1, 2, 1, 1, 5, 1, 1, 2, 1, 1, 5, 1, 1, 2, 1, 1, 5, 1, 1, 2, 1, 1, 5, 1, 1, 2, 1, 1, 5]
+23:05:21.693916 50 : 9077344 50814419788
+23:05:21.694948 #???#?????.???#??#???#?????.???#??#???#?????.???#??#???#?????.???#??#???#?????.???#? [1, 2, 3, 2, 1, 2, 3, 2, 1, 2, 3, 2, 1, 2, 3, 2, 1, 2, 3, 2]
+23:05:23.422056 51 : 405218 50814825006
+23:05:23.422056 ??.?#???????.???.?#???????.???.?#???????.???.?#???????.???.?#???????. [4, 1, 4, 1, 4, 1, 4, 1, 4, 1]
+23:05:23.827970 52 : 292863 50815117869
+23:05:23.828867 #?.#?#????.?#?.#?#????.?#?.#?#????.?#?.#?#????.?#?.#?#????. [1, 1, 5, 1, 1, 5, 1, 1, 5, 1, 1, 5, 1, 1, 5]
+23:05:23.828867 53 : 1 50815117870
+23:05:23.828867 ??????#????##??????????#????##??????????#????##??????????#????##??????????#????##??? [1, 9, 1, 9, 1, 9, 1, 9, 1, 9]
+23:05:27.068105 54 : 1545762 50816663632
+23:05:27.068105 .??.?????????.??.?????????.??.?????????.??.?????????.??.???????? [2, 1, 2, 2, 1, 2, 2, 1, 2, 2, 1, 2, 2, 1, 2]
+23:14:01.697560 55 : 299952565 51116616197
+23:14:01.697560 ???.#???#?????#??????.#???#?????#??????.#???#?????#??????.#???#?????#??????.#???#?????#?? [1, 1, 7, 2, 1, 1, 7, 2, 1, 1, 7, 2, 1, 1, 7, 2, 1, 1, 7, 2]
+23:14:02.270372 56 : 204621 51116820818
+23:14:02.271373 ???.##??.???#????????.##??.???#????????.##??.???#????????.##??.???#????????.##??.???#???? [1, 4, 4, 1, 1, 4, 4, 1, 1, 4, 4, 1, 1, 4, 4, 1, 1, 4, 4, 1]
+23:14:50.833027 57 : 24054048 51140874866
+23:14:50.833027 ???...?.??##?##..??.????...?.??##?##..??.????...?.??##?##..??.????...?.??##?##..??.????...?.??##?##..??. [7, 1, 7, 1, 7, 1, 7, 1, 7, 1]
+23:14:50.847029 58 : 4802 51140879668
+23:14:50.847029 ?????#.?????##?##????????#.?????##?##????????#.?????##?##????????#.?????##?##????????#.?????##?##?? [1, 1, 9, 1, 1, 9, 1, 1, 9, 1, 1, 9, 1, 1, 9]
+23:15:13.156184 59 : 9442500 51150322168
+23:15:13.156184 .??.?.????.?.??.?.????.?.??.?.????.?.??.?.????.?.??.?.????. [1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1]
+23:15:20.275166 60 : 1505745 51151827913
+23:15:20.275166 ??.#??????###???.???.#??????###???.???.#??????###???.???.#??????###???.???.#??????###???. [10, 1, 10, 1, 10, 1, 10, 1, 10, 1]
+23:15:20.281164 61 : 2510 51151830423
+23:15:20.281164 ?#???#???????????#???#???????????#???#???????????#???#???????????#???#????????? [2, 2, 1, 1, 1, 2, 2, 1, 1, 1, 2, 2, 1, 1, 1, 2, 2, 1, 1, 1, 2, 2, 1, 1, 1]
+01:58:53.803001 62 : 5000649594 56152480017
+01:58:53.803001 ???.?????????#.????.?????????#.????.?????????#.????.?????????#.????.?????????#. [3, 4, 3, 4, 3, 4, 3, 4, 3, 4]
+01:58:53.903096 63 : 11356 56152491373
+01:58:53.904102 ?..????##?????..???..????##?????..???..????##?????..???..????##?????..???..????##?????..? [1, 8, 1, 1, 1, 8, 1, 1, 1, 8, 1, 1, 1, 8, 1, 1, 1, 8, 1, 1]
+01:58:53.918101 64 : 243 56152491616
+01:58:53.918101 ?#???????#??#???????#??#???????#??#???????#??#???????# [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+01:58:53.919128 65 : 0 56152491616
+01:58:53.919128 ??#????#?.?#?.#??.????#????#?.?#?.#??.????#????#?.?#?.#??.????#????#?.?#?.#??.????#????#?.?#?.#??.? [9, 1, 2, 9, 1, 2, 9, 1, 2, 9, 1, 2, 9, 1, 2]
+01:58:53.919128 66 : 16 56152491632
+01:58:53.921103 ?#..?.??#.#.?#???????#..?.??#.#.?#???????#..?.??#.#.?#???????#..?.??#.#.?#???????#..?.??#.#.?#????? [1, 1, 2, 1, 1, 4, 1, 1, 2, 1, 1, 4, 1, 1, 2, 1, 1, 4, 1, 1, 2, 1, 1, 4, 1, 1, 2, 1, 1, 4]
+01:58:53.922128 67 : 16 56152491648
+01:58:53.922128 ?.?#.?..??#??.?#.?..??#??.?#.?..??#??.?#.?..??#??.?#.?..??# [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+01:58:53.922128 68 : 0 56152491648
+01:58:53.922128 ??.#??.#.???#????????.#??.#.???#????????.#??.#.???#????????.#??.#.???#????????.#??.#.???#????? [1, 2, 1, 1, 3, 1, 1, 2, 1, 1, 3, 1, 1, 2, 1, 1, 3, 1, 1, 2, 1, 1, 3, 1, 1, 2, 1, 1, 3, 1]
+01:59:07.711846 69 : 5041120 56157532768
+01:59:07.711846 ??#.??#??##??.??#?.???#.??#??##??.??#?.???#.??#??##??.??#?.???#.??#??##??.??#?.???#.??#??##??.??#?. [3, 3, 5, 1, 3, 3, 5, 1, 3, 3, 5, 1, 3, 3, 5, 1, 3, 3, 5, 1]
+01:59:07.712745 70 : 1 56157532769
+01:59:07.712745 .?.?????#???????#?.?.?????#???????#?.?.?????#???????#?.?.?????#???????#?.?.?????#???????# [1, 8, 1, 2, 1, 8, 1, 2, 1, 8, 1, 2, 1, 8, 1, 2, 1, 8, 1, 2]
+01:59:07.712745 71 : 0 56157532769
+01:59:07.712745 ?#?##?#?????##???..???#?##?#?????##???..???#?##?#?????##???..???#?##?#?????##???..???#?##?#?????##???..? [9, 5, 9, 5, 9, 5, 9, 5, 9, 5]
+01:59:07.866852 72 : 142805 56157675574
+01:59:07.866852 #..?..#?????#???.?#..?..#?????#???.?#..?..#?????#???.?#..?..#?????#???.?#..?..#?????#???. [1, 10, 1, 10, 1, 10, 1, 10, 1, 10]
+01:59:07.866852 73 : 1 56157675575
+01:59:07.866852 ??#?#??.#?????#???#?#??.#?????#???#?#??.#?????#???#?#??.#?????#???#?#??.#?????# [2, 2, 7, 2, 2, 7, 2, 2, 7, 2, 2, 7, 2, 2, 7]
+01:59:07.867869 74 : 0 56157675575
+01:59:07.867869 ???????#??????.?#.????????#??????.?#.????????#??????.?#.????????#??????.?#.????????#??????.?#. [1, 1, 2, 5, 1, 1, 1, 2, 5, 1, 1, 1, 2, 5, 1, 1, 1, 2, 5, 1, 1, 1, 2, 5, 1]
+02:00:00.713177 75 : 8281447 56165957022
+02:00:00.713177 ??.#???#??##???.#???.#???#??##???.#???.#???#??##???.#???.#???#??##???.#???.#???#??##???.# [1, 6, 4, 1, 1, 6, 4, 1, 1, 6, 4, 1, 1, 6, 4, 1, 1, 6, 4, 1]
+02:00:00.713177 76 : 0 56165957022
+02:00:00.713177 ?????????.?.#???#?..??????????.?.#???#?..??????????.?.#???#?..??????????.?.#???#?..??????????.?.#???#?.. [4, 5, 4, 5, 4, 5, 4, 5, 4, 5]
+02:00:00.789175 77 : 14406 56165971428
+02:00:00.790218 ?????####..??????####..??????####..??????####..??????####.. [1, 5, 1, 5, 1, 5, 1, 5, 1, 5]
+02:00:00.792191 78 : 768 56165972196
+02:00:00.793189 ?#???#??#.#???.???#???#??#.#???.???#???#??#.#???.???#???#??#.#???.???#???#??#.#???.? [6, 1, 1, 1, 6, 1, 1, 1, 6, 1, 1, 1, 6, 1, 1, 1, 6, 1, 1, 1]
+02:00:00.858218 79 : 32782 56166004978
+02:00:00.858218 ????.?.??.???.?????.?.??.???.?????.?.??.???.?????.?.??.???.?????.?.??.???. [2, 1, 2, 1, 2, 1, 2, 1, 2, 1]
+02:08:19.720853 80 : 293074737 56459079715
+02:08:19.721786 ?????.?#?.?#??###????????.?#?.?#??###????????.?#?.?#??###????????.?#?.?#??###????????.?#?.?#??###?? [1, 1, 1, 3, 8, 1, 1, 1, 3, 8, 1, 1, 1, 3, 8, 1, 1, 1, 3, 8, 1, 1, 1, 3, 8]
+02:08:19.725868 81 : 1250 56459080965
+02:08:19.725868 ??????##????#??????#???????##????#??????#???????##????#??????#???????##????#??????#???????##????#??????# [6, 1, 1, 1, 3, 6, 1, 1, 1, 3, 6, 1, 1, 1, 3, 6, 1, 1, 1, 3, 6, 1, 1, 1, 3]
+02:08:19.725868 82 : 0 56459080965
+02:08:19.725868 ???.???#?.??????.???#?.??????.???#?.??????.???#?.??????.???#?.?? [1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1]
+02:08:38.656714 83 : 7539722 56466620687
+02:08:38.657713 ?#??????.?#??#?#???#??????.?#??#?#???#??????.?#??#?#???#??????.?#??#?#???#??????.?#??#?#? [6, 7, 6, 7, 6, 7, 6, 7, 6, 7]
+02:08:38.661614 84 : 2500 56466623187
+02:08:38.661614 ????????#?#???????????????#?#???????????????#?#???????????????#?#???????????????#?#?????? [1, 2, 1, 3, 3, 1, 2, 1, 3, 3, 1, 2, 1, 3, 3, 1, 2, 1, 3, 3, 1, 2, 1, 3, 3]
+02:16:44.419893 85 : 165302130 56631925317
+02:16:44.419893 .???.?????..#?.???.?????..#?.???.?????..#?.???.?????..#?.???.?????..# [2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1]
+02:16:44.419893 86 : 0 56631925317
+02:16:44.419893 #????????.?.??#????????.?.??#????????.?.??#????????.?.??#????????.?.? [6, 1, 6, 1, 6, 1, 6, 1, 6, 1]
+02:16:44.566792 87 : 128349 56632053666
+02:16:44.566792 #??###???????#?#??###???????#?#??###???????#?#??###???????#?#??###???????# [1, 3, 1, 1, 1, 3, 1, 1, 1, 3, 1, 1, 1, 3, 1, 1, 1, 3, 1, 1]
+02:16:44.566792 88 : 0 56632053666
+02:16:44.566792 #???.?#?#???#???.?#?#???#???.?#?#???#???.?#?#???#???.?#?#?? [2, 5, 2, 5, 2, 5, 2, 5, 2, 5]
+02:16:44.567837 89 : 162 56632053828
+02:16:44.567837 .???????????????#?.???????????????#?.???????????????#?.???????????????#?.???????????????# [1, 3, 1, 4, 1, 1, 3, 1, 4, 1, 1, 3, 1, 4, 1, 1, 3, 1, 4, 1, 1, 3, 1, 4, 1]
+02:16:44.567837 90 : 0 56632053828
+02:16:44.567837 ????#???..#.#???..?????#???..#.#???..?????#???..#.#???..?????#???..#.#???..?????#???..#.#???.. [1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1]
+02:17:34.403901 91 : 2560759 56634614587
+02:17:34.404903 .?????.?#???#?.?????.?#???#?.?????.?#???#?.?????.?#???#?.?????.?#???# [2, 1, 4, 1, 2, 1, 4, 1, 2, 1, 4, 1, 2, 1, 4, 1, 2, 1, 4, 1]
+02:17:34.404903 92 : 0 56634614587
+02:17:34.404903 ???##??.????????##??.????????##??.????????##??.????????##??.???? [4, 2, 4, 2, 4, 2, 4, 2, 4, 2]
+02:17:35.016533 93 : 499326 56635113913
+02:17:35.016533 ????????#?#?.??#?#.?????????#?#?.??#?#.?????????#?#?.??#?#.?????????#?#?.??#?#.?????????#?#?.??#?#. [1, 3, 3, 5, 1, 3, 3, 5, 1, 3, 3, 5, 1, 3, 3, 5, 1, 3, 3, 5]
+02:17:35.458439 94 : 60000 56635173913
+02:17:35.459449 ?????#??#?????.?#???????#??#?????.?#???????#??#?????.?#???????#??#?????.?#???????#??#?????.?#? [11, 2, 11, 2, 11, 2, 11, 2, 11, 2]
+02:17:35.536446 95 : 52488 56635226401
+02:17:35.537479 ???.?#?#???#?????.?#?#???#?????.?#?#???#?????.?#?#???#?????.?#?#???#? [1, 9, 1, 9, 1, 9, 1, 9, 1, 9]
+02:17:35.541442 96 : 1875 56635228276
+02:17:35.541442 ?#???##?.?.??##??.?.??#???##?.?.??##??.?.??#???##?.?.??##??.?.??#???##?.?.??##??.?.??#???##?.?.??##??.?. [7, 6, 7, 6, 7, 6, 7, 6, 7, 6]
+02:17:35.542357 97 : 32 56635228308
+02:17:35.542357 #?#.????#??#.?#?#.????#??#.?#?#.????#??#.?#?#.????#??#.?#?#.????#??#. [3, 1, 5, 3, 1, 5, 3, 1, 5, 3, 1, 5, 3, 1, 5]    02:17:35.542357 98 : 32 56635228340                                                                                               22:1102:17:35.543341 ##???..????#??.??##???..????#??.??##???..????#??.??##???..????#??.??##???..????#??.? [4, 6, 4, 6, 4, 6, 4, 6, 4, 6]    02:17:35.553462 99 : 2592 56635230932                                                                                                  02:17:35.553462 ?.?#?#?.?????.?#?#?.?????.?#?#?.?????.?#?#?.?????.?#?#?.??? [1, 5, 1, 1, 5, 1, 1, 5, 1, 1, 5, 1, 1, 5, 1]              02:17:35.560453 100 : 3888 56635234820                                                                                                 02:17:35.560453 ?#????.?#??.???#????.?#??.???#????.?#??.???#????.?#??.???#????.?#??.? [1, 1, 4, 1, 1, 1, 4, 1, 1, 1, 4, 1, 1, 1, 4, 1, 1, 1, 4, 1]                                                                                                                            02:17:35.586446 101 : 7203 56635242023                                                                                                 02:17:35.586446 ?#????#?#??#.?????#????#?#??#.?????#????#?#??#.?????#????#?#??#.?????#????#?#??#.??? [8, 2, 1, 1, 8, 2, 1, 1, 8, 2, 1, 1, 8, 2, 1, 1, 8, 2, 1, 1]                                                                                                             02:17:35.587414 102 : 81 56635242104                                                                                                   02:17:35.587414 ??????#????#???????#????#???????#????#???????#????#???????#????# [5, 1, 5, 1, 5, 1, 5, 1, 5, 1]                        02:17:35.587414 103 : 0 56635242104                                                                                                    02:17:35.587414 ???????#??????????.????????#??????????.????????#??????????.????????#??????????.????????#??????????. [2, 2, 4, 2, 2, 4, 2, 2, 4, 2, 2, 4, 2, 2, 4]                                                                                                             Traceback (most recent call last):                                                                                                       File "D:\_Personal\AoC\2023\12\22.py", line 55, in <module>                                                                              curar = [0] * (len(lengths) + 1)                                                                                                       ^^^^^^^^^^^^^^^^^^                                                                                                                   File "D:\_Personal\AoC\2023\12\22.py", line 42, in proc                                                                                  curar[curlen] = i                                                                                                                      ^^^^^^^^^^^^^^^^^^                                                                                                                   File "D:\_Personal\AoC\2023\12\22.py", line 42, in proc                                                                                  curar[curlen] = i                                                                                                                      ^^^^^^^^^^^^^^^^^^                                                                                                                   File "D:\_Personal\AoC\2023\12\22.py", line 42, in proc                                                                                  curar[curlen] = i                                                                                                                      ^^^^^^^^^^^^^^^^^^                                                                                                                   [Previous line repeated 11 more times]                                                                                                 File "D:\_Personal\AoC\2023\12\22.py", line 39, in proc                                                                                  return                                                                                                                                ^^^^^^^^                                                                                                                            KeyboardInterrupt                                                                                                                      ^C                                                                                                                                     D:\_Personal\AoC\2023\12> 
