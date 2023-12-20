@@ -22,7 +22,9 @@ class Broadcaster(Module):
             Pulses.append((self, r, pulse))
             
 class Flipflop(Module):
-    on = False
+    def __init__(self, name):
+        super().__init__(name)
+        self.on = False
     def Process(self, trnsmtr, pulse):
         if not pulse:
             self.on = not self.on
@@ -30,7 +32,9 @@ class Flipflop(Module):
                 Pulses.append((self, rcv, self.on))
 
 class Conjunction(Module):
-    transmitters = {}
+    def __init__(self, name):
+        super().__init__(name)
+        self.transmitters = {}
     def AddTransmitter(self, transmitter):
         self.transmitters[transmitter] = False
     def Process(self, trnsmtr, pulse):
@@ -61,11 +65,16 @@ for name in lines:
         trn.AddRcv(rcv)
         if type(rcv) is Conjunction:
             rcv.AddTransmitter(trn)
+            #print('add ' + trn.name + '->' + rcv.name)
+            #print(len(modules['inv'].transmitters))
+            
+#print(modules['inv'].transmitters)
             
 for i in range(1000):
     modules['button'].Push()
     while len(Pulses) > 0:
         pulse = Pulses.pop(0)
+        print(pulse[0].name, '-high->' if pulse[2] else '-low->', pulse[1].name if pulse[1] else 'Debug')
         if pulse[2]:
             HighCnt += 1
         else:
