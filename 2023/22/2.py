@@ -69,7 +69,7 @@ for x in range(lenX):
     Space.append(layer)
     
 for b in range(len(Bricks)):
-    for point in Brick[b].Points():
+    for point in Bricks[b].Points():
         Space[point.x][point.y][point.z] = b
         
 def Fall(bricks, space):
@@ -96,7 +96,7 @@ for b in range(len(Bricks)):
             for z in range(len(y)):
                 if y[z] == b:
                     y[z] = -1
-    Fall()
+    Fall(NewBricks, NewSpace)
     cnt += len(MovedBricks)
     
  
