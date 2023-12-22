@@ -17,6 +17,7 @@ class TBrick:
         A = list(map(int, ends[0].split(',')))
         B = list(map(int, ends[1].split(',')))
         if sum(A) > sum(B):
+            print('oops')
             self.B = TPoint(A[0], A[1], A[2] - 1)
             self.A = TPoint(B[0], B[1], B[2] - 1)
         else:
@@ -82,8 +83,8 @@ while moved:
 SupportedBy = {}
 IsSupporting = {}
 for brick in Bricks:
-    SupportedBy[brick] = []
-    IsSupporting[brick] = []
+    SupportedBy[brick] = set()
+    IsSupporting[brick] = set()
 
 for brick in Bricks:
     bottom = brick.Bottom()
@@ -91,8 +92,8 @@ for brick in Bricks:
         for p in bottom:
             lower = Space[p.x][p.y][p.z - 1]
             if lower:
-                SupportedBy[brick].append(lower)
-                IsSupporting[lower].append(brick)
+                SupportedBy[brick].add(lower)
+                IsSupporting[lower].add(brick)
                 
 cnt = 0
 for brick in Bricks:
