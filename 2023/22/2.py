@@ -87,6 +87,7 @@ Fall(Bricks, Space)
 
 cnt = 0
 for b in range(len(Bricks)):
+    print('removing brick', cnt)
     NewBricks = copy.deepcopy(Bricks)
     NewSpace = copy.deepcopy(Space)
     NewBricks.pop(b)
