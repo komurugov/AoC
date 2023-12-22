@@ -26,6 +26,7 @@ class TBrick:
         self.stepX = 0 if B[0] == A[0] else 1
         self.stepY = 0 if B[1] == A[1] else 1
         self.stepZ = 0 if B[2] == A[2] else 1
+        global lenX, lenY, lenZ
         lenX = max(lenX, A[0], B[0])
         lenY = max(lenY, A[1], B[1])
         lenZ = max(lenZ, A[2], B[2])
@@ -46,8 +47,8 @@ class TBrick:
                 Space[p.x][p.y][p.z] = None
                 Space[p.x][p.y][p.z - 1] = self
         else:
-            Space[B.x][B.y][B.z] = None
-            Space[A.x][A.y][A.z - 1] = self
+            Space[self.B.x][self.B.y][self.B.z] = None
+            Space[self.A.x][self.A.y][self.A.z - 1] = self
         self.A.z -= 1
         self.B.z -= 1
         
@@ -74,7 +75,7 @@ moved = True
 while moved:
     moved = False
     for brick in Bricks:
-        if all(p.z > 0 or not Space[p.x][p.y][p.z - 1] for p in brick.Bottom()):
+        if all(p.z > 0 and not Space[p.x][p.y][p.z - 1] for p in brick.Bottom()):
             brick.Down()
             moved = True
             
@@ -90,13 +91,15 @@ for brick in Bricks:
         for p in bottom:
             lower = Space[p.x][p.y][p.z - 1]
             if lower:
-                SupportedBy[brick].append[lower]
-                IsSupporting[lower].append[brick]
+                SupportedBy[brick].append(lower)
+                IsSupporting[lower].append(brick)
                 
 cnt = 0
 for brick in Bricks:
-    if all(len(SupportedBy[higher] > 1) for higher in IsSupporting[brick])
+    if all(len(SupportedBy[higher]) > 1 for higher in IsSupporting[brick]):
         cnt += 1
         
 print(cnt)
+
+# < 583
                 
